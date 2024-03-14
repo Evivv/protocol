@@ -1,3 +1,3 @@
-module github.com/Evivv/protocol
+module github.com/evivv/protocol
 
 go 1.21
